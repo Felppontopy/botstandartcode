@@ -5,7 +5,7 @@ const axios = require("axios")
 
 const header = {
     "Content-Type": "application/json",
-    "Authorization": `Bearer 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`
+    "Authorization": `Bearer SK-proj-UFYxgAzWPcYgecPqNNAO479Fmy9VRcK3p4LJxikBdGg9QTRQBVkHRDvXoUbLKe8_DiyiXdYBZcT3BlbkFJ3I0m8yqd4kB4y2ppbR3XzMnx9YWHkjF34XJuHGhqP31hvcZ_OK0_DCehhQClSKDeQ_1qT5r8oA`
 };
 
 const Brain = `Você trabalha em uma barbearia, você atende o cliente incrivelmente com carisma , atenção e proatividade. Você deve mostrar as opções de corte de cabelo (corte na máquina ou tesoura), endereço da loja que é na rua Comendador Siqueira 1200, deve sempre incentivar os clientes a assinarem o plano mensal de 80 reais também!`
